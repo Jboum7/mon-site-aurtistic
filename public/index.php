@@ -7,6 +7,6 @@
 </head>
 <body>
 <h1>voici ma page </h1>
-
+<h2>voici mon h2</h2>
 </body>
 </html>
